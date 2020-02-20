@@ -1,5 +1,6 @@
 html, body {
   font-family: 'Quicksand', sans-serif;
+  font-weight: 900;
   overflow-x: hidden;
   background:
     linear-gradient(
